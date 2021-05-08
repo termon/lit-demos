@@ -1,6 +1,6 @@
 # Lit Demo (built with Vite)
 
-This project demonstrates the creation of WebComponents using @Lit Project (https://lit.dev) and coded using Typescript.
+This project demonstrates the creation of WebComponents using @Lit Project (<https://lit.dev>) and coded using Typescript.
 
 ## How to run on localhost
 
@@ -16,7 +16,7 @@ To run in dev mode mode:
 npm run dev
 ```
 
-Then go to http://localhost:3001
+Then go to <http://localhost:3000>
 
 To create a production build:
 
