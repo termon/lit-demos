@@ -1,0 +1,5 @@
+import "./lit-loader"
+import "./lit-rating"
+import "./lit-quotes"
+import "./lit-news-articles"
+import "./lit-counter"
